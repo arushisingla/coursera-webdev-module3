@@ -1,0 +1,39 @@
+.navtitle{
+  font-size: 30px;
+}
+body{
+  background-color: rgb(65, 194, 171);
+}
+.tiles{
+  background-color: rgba(28, 29, 8, 0.95);
+  color: white;
+
+}
+.navbar{
+  background-color: black;
+}
+
+#title{
+  font-size: 55px;
+  color: black;
+  text-align: center;
+  font-weight: bold;
+  font-family: 'Merriweather Sans', sans-serif;
+  margin-bottom: 20px;
+  margin-top: 15px;
+}
+.cardtitle{
+  text-align: center;
+  font-size: 30px;
+  color: rgb(67, 203, 179);
+  font-weight: bold;
+
+}
+.text{
+  text-align: justify;
+  font-size: 18px;
+}
+a{
+  font-size: 20px;
+  color: rgb(157, 111, 227);
+}
